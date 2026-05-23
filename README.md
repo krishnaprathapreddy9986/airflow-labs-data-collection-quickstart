@@ -1,5 +1,5 @@
 # airflow-labs-data-collection-quickstart
 
 ```
-kind create cluster --name airflow-lab --config aiops-lab-kind.yaml
+kind create cluster --name airflow-lab --config aiops-lab-kind-config.yaml
 ```
