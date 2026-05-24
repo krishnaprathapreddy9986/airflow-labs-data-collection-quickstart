@@ -25,7 +25,7 @@ dags:
     enabled: false
   gitSync:
     enabled: true
-    repo: https://github.com/rajinikanthvadla-ai/airflow-labs-data-collection-quickstart.git
+    repo: https://github.com/krishnaprathapreddy9986/airflow-labs-data-collection-quickstart.git
     branch: main
     ref: main
     rev: HEAD
